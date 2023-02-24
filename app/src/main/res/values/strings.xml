@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LinkedIn Clone</string>
+    <string name="sign_in">Sign in</string>
+    <string name="join_with_google">Join with Google</string>
+    <string name="join">Join LinkedIn</string>
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in_with_Google">Sign in with Google</string>
+    <string name="continue_with_Google">Continue with Google</string>
+    <string name="continue_with_Facebook">Continue with Facebook</string>
+    <string name="sign_in_with_Facebook">Sign in with Facebook</string>
+    <string name="Continue">Continue</string>
+</resources>
