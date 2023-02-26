@@ -23,7 +23,15 @@ class UserModel() : Parcelable{
         location = parcel.readString().toString()
     }
 
-    constructor(username: String?,emailAddress: String?,imageUrl: String?,key: String?, token: String?, location: String?,headline: String?,about: String?) : this() {
+    constructor(
+        username: String?,
+        emailAddress: String?,
+        imageUrl: String?,
+        key: String?,
+        token: String?,
+        location: String?,
+        headline: String?
+    ) : this() {
         this.username = username!!
         this.emailAddress = emailAddress!!
         this.imageUrl = imageUrl!!

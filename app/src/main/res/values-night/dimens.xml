@@ -763,4 +763,10 @@
     <dimen name="_minus7sdp">-7.00dp</dimen>
     <dimen name="_minus8sdp">-8.00dp</dimen>
     <dimen name="_minus9sdp">-9.00dp</dimen>
+
+    <dimen name="reactions_item_margin">8dp</dimen>
+    <dimen name="reactions_item_size">32dp</dimen>
+    <dimen name="reactions_text_horizontal_padding">12dp</dimen>
+    <dimen name="reactions_text_size">8sp</dimen>
+    <dimen name="reactions_text_vertical_padding">4dp</dimen>
 </resources>
